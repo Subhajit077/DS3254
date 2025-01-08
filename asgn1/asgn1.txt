@@ -1,0 +1,12 @@
+1) CPU: AMD Ryzen 7 4800 H
+Cores: 8 core
+Frequency: 2901 MHz
+GPU: NVIDIA GeForce GTX 1650 Max Q
+SSD: 512 GB
+RAM: 16 GB 
+Battery Capacity: 50 WHrs
+Hyperthreading: 16 threads
+Cache: 11 MB
+
+2) When selecting a laptop for gaming, video editing, and graphic design, I’d prioritize a powerful CPU (Intel i7/i9 or AMD Ryzen 7/9), a dedicated GPU (NVIDIA RTX 3060 or better), 16-32 GB of RAM, and at least 512 GB of SSD storage. A high-resolution display with accurate color and good cooling are also essential.
+
